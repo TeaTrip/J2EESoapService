@@ -1,0 +1,3 @@
+com\example\ServiceMovieSearcher\MovieWebService.class
+com\example\ServiceMovieSearcher\PostgreSQLDAO.class
+com\example\ServiceMovieSearcher\Movie.class
